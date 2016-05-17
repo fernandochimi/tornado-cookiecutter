@@ -1,6 +1,8 @@
 {
     "project_name": "",
     "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_') }}",
+    "path_name": "{{ cookiecutter.project_name.lower()|replace(' ',
+'-')|replace('_', '-') }}",
     "short_description": "",
     "description": "",
     "version": "0.1.0",

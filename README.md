@@ -109,6 +109,17 @@ familar with it. This is how it looks -
             ├── base.html
         └── home.html
 
+## Features
+
+* Tornado 4
+* Restless
+* SQLAlchemy
+* pytest
+* Swagger
+* Sentry
+* Ansible
+* Docker
+
 ## Create project ##
 
 Before create your project please install cookiecutter
@@ -191,6 +202,7 @@ Showing message when starting and stoping the server
 
 ## TODO
 
-- [] logging
-- [] sentry
-- [] swagger
+- [ ] logging
+- [ ] swagger
+- [ ] ansible
+- [ ] docker
