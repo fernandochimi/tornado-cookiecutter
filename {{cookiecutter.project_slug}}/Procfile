@@ -1,1 +1,0 @@
-web: python {{cookiecutter.project_slug}}/config/wsgi.py
